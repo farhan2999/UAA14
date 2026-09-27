@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FarhanAbuzour_POOACT1_PremiereApproche/1.0.0": {
+        "runtime": {
+          "FarhanAbuzour_POOACT1_PremiereApproche.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FarhanAbuzour_POOACT1_PremiereApproche/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
